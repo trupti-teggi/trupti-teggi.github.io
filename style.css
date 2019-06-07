@@ -1,8 +1,25 @@
 h1{
-                color:blue;
-}
+                color:;
+  }
                 
 h3{
-                    color:red;
-                    background:yellow;
-                }
+                    color:white;
+                    background:black;
+    padding:20px;
+  }
+body{
+    background:#d1d8e0;
+}
+.box{
+    background:#a5b1c2;
+    width:500px;
+    margin:100px auto;
+    padding:50px;
+}
+
+    #image {
+        width:200px;
+        height:200px;
+        border:10px solid #778ca3;
+        border-radius:200px;
+    }
